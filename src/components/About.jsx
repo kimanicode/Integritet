@@ -6,7 +6,7 @@ import { FcDocument,FcBusinessman } from "react-icons/fc";
 
 export const About = () => {
   return (
-    <div className='bg-slate-200 px-10 py-5 w-full'>
+    <div className='bg-slate-200 px-10 py-5 container'>
         <h3 className='text-lagoon1 text-center font-semibold md:text-2xl'>What we Do</h3>
         <div className='flex flex-col md:flex-row justify-center gap-4 py-6'>
 
