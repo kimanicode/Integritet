@@ -1,6 +1,6 @@
 import React from 'react'
 import { LuQuote } from "react-icons/lu";
-import picha from '../assets/woman.jpg'
+import picha from '../assets/kim.jpg'
 
 
 const Testimonials = () => {
